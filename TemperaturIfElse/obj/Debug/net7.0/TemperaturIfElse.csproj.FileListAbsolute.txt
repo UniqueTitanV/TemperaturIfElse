@@ -1,0 +1,15 @@
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\bin\Debug\net7.0\TemperaturIfElse.exe
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\bin\Debug\net7.0\TemperaturIfElse.deps.json
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\bin\Debug\net7.0\TemperaturIfElse.runtimeconfig.json
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\bin\Debug\net7.0\TemperaturIfElse.dll
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\bin\Debug\net7.0\TemperaturIfElse.pdb
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.csproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.AssemblyInfo.cs
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.dll
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\refint\TemperaturIfElse.dll
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.pdb
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\TemperaturIfElse.genruntimeconfig.cache
+C:\Users\alexa\Documents\Kode\C# Sharp\TemperaturIfElse\obj\Debug\net7.0\ref\TemperaturIfElse.dll
